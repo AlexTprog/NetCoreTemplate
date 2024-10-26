@@ -1,0 +1,6 @@
+@NetCoreTemplate.Api_HostAddress = http://localhost:5273
+
+GET {{NetCoreTemplate.Api_HostAddress}}/user/
+Accept: application/json
+
+###
